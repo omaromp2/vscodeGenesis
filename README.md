@@ -1,7 +1,7 @@
 # Vs Code Genesis
 
 ## Screenshot 
-![img](/img/genesis.png)
+![img](img/genesis.png)
 
 ## Based on Atom's Genesis Theme 
 
