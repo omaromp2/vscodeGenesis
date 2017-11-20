@@ -4,10 +4,6 @@
     "description": "fork of atoms genesis theme ",
     "version": "0.2.0",
     "publisher": "omarponce",
-    "repository": {
-        "type": "git",
-        "url": "https://omaromp.visualstudio.com/VSCodeGenesis/"
-    },
     "engines": {
         "vscode": "^1.18.0"
     },
