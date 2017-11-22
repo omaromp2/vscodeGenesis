@@ -2,11 +2,16 @@
     "name": "vscodegenesis",
     "displayName": "vscodegenesis",
     "description": "fork of atoms genesis theme ",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "publisher": "omarponce",
     "engines": {
         "vscode": "^1.18.0"
     },
+    "repository": {
+        "type": "git", 
+        "url":"https://github.com/omaromp2/vscodeGenesis"
+    },
+    "icon": "img/genico.png",
     "categories": [
         "Themes"
     ],

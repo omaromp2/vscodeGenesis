@@ -1,5 +1,7 @@
 # Vs Code Genesis
 
+[GitHub Repo](https://github.com/omaromp2/vscodeGenesis)
+
 ## Screenshot 
 ![img](https://user-images.githubusercontent.com/3978597/33027317-22cf942e-cde9-11e7-81cc-30eff6725de5.png)
 
